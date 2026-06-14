@@ -1,0 +1,24 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: materi1
+- file: materi2
+- file: Persamaan_Linear_Matriks
+- file: invers-matriks
+- file: materi3
+- file: materi4
+- file: materi5
+- file: Tugas_Komputasi_Determinan_Menggunakan_Operasi_Baris_Elementer_(OBE)
+- file: Perhitungan_Determinan_Ekspansi_Baris_dan_Invers_Matriks_Adjoin
+- file: materi6
+- file: tugas_transformasi_matrik
+- file: materi7
+- file: Eigenfaces
+- file: PROJECT_TUGAS:_Pengenalan_Wajah_(Eigenface)_Menggunaka_SVD_dengan_Folder_‘faces’
+- file: materi10
+
+
+
