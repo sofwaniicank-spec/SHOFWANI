@@ -1,4 +1,4 @@
-# Materi 3
+# materi 3
 
 ## C. Studi Kasus Kompleks Eliminasi Gaussian SPL 5x5
 
